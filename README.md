@@ -9,7 +9,7 @@
 ### Frontend
 
 - **Languages:** JavaScript, HTML, CSS
-- **Libraries & Frameworks:** React
+- **Libraries & Frameworks:** React, Node, Express
 - **UI/UX Design:** Figma
 - **Styling:** Bootstrap
 
