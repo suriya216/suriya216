@@ -8,7 +8,7 @@
 
 ### Frontend
 
-- **Languages:** JavaScript, HTML, CSS
+- **Languages:** Java, C, Python, C++(some STL libraries),JavaScript, HTML, CSS
 - **Libraries & Frameworks:** React, Node, Express
 - **UI/UX Design:** Figma
 - **Styling:** Bootstrap
